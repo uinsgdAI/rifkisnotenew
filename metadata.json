@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Cambridge 0580 Assistant",
+  "description": "Free Cambridge IGCSE Mathematics (0580) revision notes for every syllabus subtopic, PapaCambridge past paper explorer, and timed IGCSE practice exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
